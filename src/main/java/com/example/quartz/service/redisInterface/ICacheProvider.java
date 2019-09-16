@@ -1,4 +1,4 @@
-package com.example.quartz.redisInterface;
+package com.example.quartz.service.redisInterface;
 
 public interface ICacheProvider {
     void setString(String key,String value);

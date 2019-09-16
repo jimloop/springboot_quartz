@@ -1,7 +1,7 @@
 package com.example.quartz.demo;
 
 import com.example.quartz.DemoApplication;
-import com.example.quartz.redisInterface.ICacheProvider;
+import com.example.quartz.service.redisInterface.ICacheProvider;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

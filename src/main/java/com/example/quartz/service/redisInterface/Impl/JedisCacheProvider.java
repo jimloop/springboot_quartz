@@ -1,6 +1,6 @@
-package com.example.quartz.redisInterface.Impl;
+package com.example.quartz.service.redisInterface.Impl;
 
-import com.example.quartz.redisInterface.ICacheProvider;
+import com.example.quartz.service.redisInterface.ICacheProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;
